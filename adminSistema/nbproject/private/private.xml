@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/listaProductos.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/PerfilDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolPerfil.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/listaRoles.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/Rol.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/Perfil.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ListaItem.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ListaItemDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/misListas.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/filtro/SeguridadFilter.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ActividadDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/agregarProducto.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/auditoria.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/cpanel.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/Lista.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/agregarRol.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/index.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ActividadConstantes.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/GestionActividad.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/mensaje.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/GestionActividadDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/AuditoriaModificacionDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolProducto.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ProductoDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CerrarSesion.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolItem.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/AuditoriaModificacion.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolAuditoria.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolGestionActividad.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/historial.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ListaDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/Actividad.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/listaItems.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolLista.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/modelo/ListaMiembroDAO.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/miembros.jsp</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/src/java/controlador/CtrolActividad.java</file>
+            <file>file:/C:/Users/Sebastian/OneDrive/Documentos/NetBeansProjects/adminSistema/web/actividades.jsp</file>
+        </group>
+    </open-files>
+</project-private>
